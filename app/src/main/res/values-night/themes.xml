@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TodoListApp" parent="Theme.Material3.DayNight.NoActionBar">
+         Customize your dark theme here.
+         <item name="colorPrimary">#a7adba</item>
+    </style>
+
+    <style name="RadioButton.Login" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="buttonTint">@android:color/white</item>
+    </style>
+</resources>
